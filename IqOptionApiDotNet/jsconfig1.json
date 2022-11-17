@@ -1,0 +1,140 @@
+{
+  "paridades": [
+    {
+      "paridade": "EURUSD",
+      "id": 1
+    },
+    {
+      "paridade": "EURGBP",
+      "id": 2
+    },
+    {
+      "paridade": "GBPJPY",
+      "id": 3
+    },
+    {
+      "paridade": "EURJPY",
+      "id": 4
+    },
+    {
+      "paridade": "GBPUSD",
+      "id": 5
+    },
+    {
+      "paridade": "USDJPY",
+      "id": 6
+    },
+    {
+      "paridade": "AUDCAD",
+      "id": 7
+    },
+    {
+      "paridade": "NZDUSD",
+      "id": 8
+    },
+    {
+      "paridade": "AUDUSD",
+      "id": 99
+    },
+    {
+      "paridade": "USDCAD",
+      "id": 100
+    },
+    {
+      "paridade": "AUDJPY",
+      "id": 101
+    },
+    {
+      "paridade": "GBPCAD",
+      "id": 102
+    },
+    {
+      "paridade": "GBPCHF",
+      "id": 103
+    },
+    {
+      "paridade": "GBPAUD",
+      "id": 104
+    },
+    {
+      "paridade": "EURCAD",
+      "id": 105
+    },
+    {
+      "paridade": "CADCHF",
+      "id": 107
+    },
+    {
+      "paridade": "EURAUD",
+      "id": 108
+    },
+    {
+      "paridade": "AUDCHF",
+      "id": 943
+    },
+    {
+      "paridade": "AUDNZD",
+      "id": 944
+    },
+    {
+      "paridade": "CADJPY",
+      "id": 945
+    },
+    {
+      "paridade": "EURCHF",
+      "id": 946
+    },
+    {
+      "paridade": "GBPNZD",
+      "id": 947
+    },
+    {
+      "paridade": "NZDCAD",
+      "id": 948
+    },
+    {
+      "paridade": "EURUSDOTC",
+      "id": 76
+    },
+    {
+      "paridade": "EURGBPOTC",
+      "id": 77
+    },
+    {
+      "paridade": "USDCHFOTC",
+      "id": 78
+    },
+    {
+      "paridade": "EURJPYOTC",
+      "id": 79
+    },
+    {
+      "paridade": "NZDUSDOTC",
+      "id": 80
+    },
+    {
+      "paridade": "GBPUSDOTC",
+      "id": 81
+    },
+    {
+      "paridade": "EURRUBOTC",
+      "id": 82
+    },
+    {
+      "paridade": "USDRUBOTC",
+      "id": 83
+    },
+    {
+      "paridade": "GBPJPYOTC",
+      "id": 84
+    },
+    {
+      "paridade": "USDJPYOTC",
+      "id": 85
+    },
+    {
+      "paridade": "AUDCADOTC",
+      "id": 86
+    }
+  ]
+}

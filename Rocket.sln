@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketBuy", "FastBuy\RocketBuy.csproj", "{4DB479DE-3171-4D26-AA40-ABF177AB6151}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IqOptionDotNetApi", "IqOptionApiDotNet\IqOptionDotNetApi.csproj", "{E40BF1EC-3BCB-4F86-B0FD-BED3C7AC4F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB479DE-3171-4D26-AA40-ABF177AB6151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB479DE-3171-4D26-AA40-ABF177AB6151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB479DE-3171-4D26-AA40-ABF177AB6151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB479DE-3171-4D26-AA40-ABF177AB6151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40BF1EC-3BCB-4F86-B0FD-BED3C7AC4F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40BF1EC-3BCB-4F86-B0FD-BED3C7AC4F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40BF1EC-3BCB-4F86-B0FD-BED3C7AC4F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40BF1EC-3BCB-4F86-B0FD-BED3C7AC4F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C677FBD-9AD6-462C-BC5D-C48E540F3EF3}
+	EndGlobalSection
+EndGlobal
